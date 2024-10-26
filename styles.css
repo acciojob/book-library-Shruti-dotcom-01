@@ -23,7 +23,6 @@ body{
 }
 
 .book{
-	
     background-color: #f9f9f9;
     margin-bottom: 20px;
     padding: 20px;
@@ -38,15 +37,15 @@ body{
 }
 
 p{
-	color: #777777;
+	color: rgb(119, 119, 119);
 }
 
 .book-info{
 	text-align: left;
-	background-color: rgb(46, 204, 113);
+	
 }
 .price{
-	background-color: #2ecc71;
+	background-color: rgb(46, 204, 113);
     color: #fff;
     font-size: 1.2em;
     padding: 5px 10px;
@@ -54,4 +53,5 @@ p{
     display: inline-block;
     margin-top: 10px;
 	width: 100%;
+	
 }
