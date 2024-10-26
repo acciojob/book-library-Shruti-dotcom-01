@@ -43,9 +43,10 @@ p{
 
 .book-info{
 	text-align: left;
+	
 }
 .price{
-	background-color: ##2ecc71;
+	background-color: #2ecc71;
     color: #fff;
     font-size: 1.2em;
     padding: 5px 10px;
